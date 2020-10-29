@@ -1,0 +1,9 @@
+// See https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions for more details
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "msjsdiag.debugger-for-chrome",
+  ]
+}
