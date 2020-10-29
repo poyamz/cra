@@ -23,6 +23,6 @@ module.exports = {
   extends: [
     'react-app', // Create React App base settings
     'react-app/jest', // Create React App Jest settings
-    'eslint:recommended' // ESLint recommended settings
+    'eslint:recommended', // ESLint recommended settings
   ],
 };
