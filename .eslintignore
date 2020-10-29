@@ -1,4 +1,4 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# See https://eslint.org/docs/user-guide/configuring#eslintignore for more about ignoring files.
 
 # dependencies
 /node_modules
@@ -10,9 +10,10 @@
 
 # production
 /build
+/public
 
-# eslint
-.eslintcache
+# node
+package-lock.json
 
 # misc
 .DS_Store
